@@ -5,3 +5,7 @@ public int suma(int a, int b){
 public int resta(int a, int b){
 	return a - b;
 }
+
+public double division(int a, int b){
+	return a / b;
+}
