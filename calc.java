@@ -21,3 +21,8 @@ public double raiz(int a, int b){
 	return a;
 }
 
+public double potencia(int a, int b){
+	
+	return Math.pow(a,b);
+}
+
