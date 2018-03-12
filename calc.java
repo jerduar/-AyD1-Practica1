@@ -12,10 +12,12 @@ public int resta(int a, int b){
 	return a - b;
 }
 
+/* función division validada*/
 public double division(int a, int b){
 	return a / b;
 }
 
+/* funcion raiz validada */
 public double raiz(int a, int b){
 	while(b>0){
 		a=a/a;
