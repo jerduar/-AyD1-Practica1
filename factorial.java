@@ -1,3 +1,4 @@
+//validacion de factorial
 public int factorial(int num){
 
 	if(num <= 1) {
@@ -8,3 +9,4 @@ public int factorial(int num){
 
 }
 //validacion correcta
+
