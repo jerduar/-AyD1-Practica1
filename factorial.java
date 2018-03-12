@@ -1,3 +1,4 @@
+//validacion de factorial
 public int factorial(int num){
 
 	if(num <= 1) {
@@ -6,4 +7,4 @@ public int factorial(int num){
     	return num*factorial(num-1);
     }	
 
-}
+
