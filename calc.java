@@ -35,3 +35,7 @@ public double potencia(int a, int b){
 	return Math.pow(a,b);
 }
 
+public double modular(int a, int b){
+
+	return a%b;
+}
