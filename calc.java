@@ -39,3 +39,6 @@ public double modular(int a, int b){
 
 	return a%b;
 }
+public int multiplicacion2 (int num1, int num2){
+	return num1 * num2;
+}
