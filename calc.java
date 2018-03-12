@@ -1,18 +1,21 @@
+import Math.*;
 
 /* funcion suma validada*/
 public int suma(int a, int b){
 	return a+b;	
 }
 
-/* funcion resta validada*/
+/* funcion resta multiplicacion*/
 public int multiplicar(int a, int b){
 	return a*b;
 }
+
+/* funcion resta validada */
 public int resta(int a, int b){
 	return a - b;
 }
 
-/* función division validada*/
+/* función division validada */
 public double division(int a, int b){
 	return a / b;
 }
@@ -26,6 +29,7 @@ public double raiz(int a, int b){
 	return a;
 }
 
+/*función potencia validada */
 public double potencia(int a, int b){
 	
 	return Math.pow(a,b);
