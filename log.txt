@@ -1,0 +1,35 @@
+[33mcommit f1a5814f691a24b0625dc91b55c4fc9783bc6a21[m[33m ([m[1;36mHEAD -> [m[1;32mdeveloper[m[33m, [m[1;31morigin/developer[m[33m)[m
+Author: gary <gsteph393@gmail.com>
+Date:   Tue Mar 6 13:22:00 2018 -0600
+
+    eliminacion archivo fallido 201403997
+
+[33mcommit b793ac52e9811781787b225a3c334035bcc87b7c[m[33m ([m[1;31morigin/resta[m[33m)[m
+Author: jerduar <jerduar@gmail.com>
+Date:   Tue Mar 6 13:15:35 2018 -0600
+
+    implementación de la función resta 201442819
+
+[33mcommit c13445fa1eb18c62c4390cee6123e4a597150e66[m[33m ([m[1;31morigin/suma[m[33m, [m[1;32msuma[m[33m)[m
+Author: gary <gsteph393@gmail.com>
+Date:   Tue Mar 6 13:09:07 2018 -0600
+
+    elimino archivo innecesario 201403997
+
+[33mcommit a921f790e2c596b8da896e97ef148a93df1a83f1[m
+Author: gary <gsteph393@gmail.com>
+Date:   Tue Mar 6 13:07:34 2018 -0600
+
+    implementacion funcion suma 201403997
+
+[33mcommit 84442bb52f84c957d951df48c4a9b9c43e113a02[m
+Author: gary <gsteph393@gmail.com>
+Date:   Tue Mar 6 12:46:36 2018 -0600
+
+    archivo de inicio
+
+[33mcommit c4c6bbefb24747927c9412ce16d4c5c2f6ef8689[m
+Author: jerduar <jerduar@gmail.com>
+Date:   Tue Mar 6 11:54:39 2018 -0600
+
+    hola git
